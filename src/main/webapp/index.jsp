@@ -18,6 +18,7 @@
 	</div>
 		<h3 class="panel-heading">김 원 수</h3>
 		<h3 class="panel-heading">이 민 호</h3>
+		<h3 class="panel-heading">이 성 현</h3>
 </body>
 </html>
 <!--  -->
