@@ -16,8 +16,8 @@
 	<div class="container panel panel-info">
 		<h3 class="panel-heading">인 덱 스</h3>
 	</div>
+		<h3 class="panel-heading">김 원 수</h3>
+		
 </body>
 </html>
-<!-- 
-
- -->
+<!--  -->
